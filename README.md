@@ -1,3 +1,3 @@
-# Thalamus build workspace
+# Thalamus Code Project
 
-Managed mirror of hardcoregamingsyle/main-4185. Workflows under .github/workflows/ run this branch's commands here.
+Auto-generated repository. Edited by AI agents.
